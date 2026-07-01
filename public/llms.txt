@@ -1,0 +1,108 @@
+# מכירות סקוטים ואופניים — Generative Engine Optimization Map
+
+> An online retail store specializing in Scottish scooters and bicycles. The business focuses on selling two-wheeled personal transportation vehicles, catering to customers looking for scooters and bicycles as a mode of transport or recreational activity.
+
+---
+
+## Pages
+
+### בית
+https://-8b6c9935.zappy5.app
+חנות אונליין מובילה למכירת אופניים וקורקינטים חשמליים למכירה. מצא רכבים אישיים עירוניים ומשפחתיים לרכיבה מהנה ונוחה. היכנס עכשיו ותתחיל לנוע!
+
+### מדריך קנייה
+https://-8b6c9935.zappy5.app/buying-guide
+מדריך קנייה מעמיק שיעזור לך לבחור בין אופניים חשמליים לעיר לקורקינט חשמלי למשפחה. טיפים, השוואות והמלצות שיבטיחו רכישה חכמה. כנס למדריך המושלם!
+
+### סיפורי רכיבה
+https://-8b6c9935.zappy5.app/ride-stories
+סיפורי רכיבה מעוררי השראה של לקוחות שאוהבים מכירת אופניים וקורקינטים חשמליים. גלה איך רכבים דו-גלגליים שינו את חוויית הנסיעה שלהם. קרא עוד ותתמכר לחופש!
+
+### צור קשר
+https://-8b6c9935.zappy5.app/contact
+צור קשר עם צוות המומחים שלנו למכירת אופניים וקורקינטים חשמליים. אנחנו פה לענות על שאלות, לתת ייעוץ אישי ולהתאים לך את הרכב המושלם. פנה עכשיו ותתקדם!
+
+### Products
+https://-8b6c9935.zappy5.app/products
+המוצרים שלנו - מכירות סקוטים ואופניים
+
+### Cart
+https://-8b6c9935.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-8b6c9935.zappy5.app/checkout
+תשלום
+
+### Login
+https://-8b6c9935.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-8b6c9935.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-8b6c9935.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-8b6c9935.zappy5.app/product/:slug
+פרטי המוצר - מכירות סקוטים ואופניים
+
+### Category
+https://-8b6c9935.zappy5.app/category/:slug
+מוצרים - מכירות סקוטים ואופניים
+
+### תודה שפניתם אלינו
+https://-8b6c9935.zappy5.app/thank-you
+מכירות סקוטים ואופניים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8b6c9935.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8b6c9935.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8b6c9935.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מכירות סקוטים ואופניים
+An online retail store specializing in Scottish scooters and bicycles. The business focuses on selling two-wheeled personal transportation vehicles, catering to customers looking for scooters and bicycles as a mode of transport or recreational activity.
+
+## Services/Products
+- מכירת קורקינטים סקוטים
+- מכירת אופניים
+
+## Target Audience
+- רוכבי עיר פעילים
+- משפחות ירוקות
+- חובבי כושר
+
+## Industry
+E-commerce / Sports & Outdoor Vehicles
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-8b6c9935.zappy5.app/sitemap.xml
+- Robots: https://-8b6c9935.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-8b6c9935.zappy5.app/llms-full.txt
+- Products (JSON): https://-8b6c9935.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-8b6c9935.zappy5.app/product-feed.xml
