@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-8b6c9935.zappy5.app
+https://example.com
 חנות אונליין מובילה למכירת אופניים וקורקינטים חשמליים למכירה. מצא רכבים אישיים עירוניים ומשפחתיים לרכיבה מהנה ונוחה. היכנס עכשיו ותתחיל לנוע!
 
 ### מדריך קנייה
-https://-8b6c9935.zappy5.app/buying-guide
+https://example.com/buying-guide
 מדריך קנייה מעמיק שיעזור לך לבחור בין אופניים חשמליים לעיר לקורקינט חשמלי למשפחה. טיפים, השוואות והמלצות שיבטיחו רכישה חכמה. כנס למדריך המושלם!
 
 ### סיפורי רכיבה
-https://-8b6c9935.zappy5.app/ride-stories
+https://example.com/ride-stories
 סיפורי רכיבה מעוררי השראה של לקוחות שאוהבים מכירת אופניים וקורקינטים חשמליים. גלה איך רכבים דו-גלגליים שינו את חוויית הנסיעה שלהם. קרא עוד ותתמכר לחופש!
 
 ### צור קשר
-https://-8b6c9935.zappy5.app/contact
+https://example.com/contact
 צור קשר עם צוות המומחים שלנו למכירת אופניים וקורקינטים חשמליים. אנחנו פה לענות על שאלות, לתת ייעוץ אישי ולהתאים לך את הרכב המושלם. פנה עכשיו ותתקדם!
 
 ### Products
-https://-8b6c9935.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - מכירות סקוטים ואופניים
 
 ### Cart
-https://-8b6c9935.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-8b6c9935.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-8b6c9935.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-8b6c9935.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-8b6c9935.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-8b6c9935.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - מכירות סקוטים ואופניים
 
 ### Category
-https://-8b6c9935.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - מכירות סקוטים ואופניים
 
 ### תודה שפניתם אלינו
-https://-8b6c9935.zappy5.app/thank-you
+https://example.com/thank-you
 מכירות סקוטים ואופניים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-8b6c9935.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-8b6c9935.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-8b6c9935.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ E-commerce / Sports & Outdoor Vehicles
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-8b6c9935.zappy5.app/sitemap.xml
-- Robots: https://-8b6c9935.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-8b6c9935.zappy5.app/llms-full.txt
-- Products (JSON): https://-8b6c9935.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-8b6c9935.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
